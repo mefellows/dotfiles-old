@@ -1,0 +1,7 @@
+*/**
+.*
+!.zsh/*
+!.vimrc
+!.zshrc
+!.gitignore
+!*/
