@@ -1,0 +1,13 @@
+
+export EDITOR='vim'
+export PATH=/opt/bin:$PATH
+export PATH=~/Library/Python/2.7/bin:$PATH
+export GOPATH=/Users/mfellows/go
+export PATH="/opt/pact/bin:./node_modules/.bin:$PATH"
+
+alias ll='ls -larth'
+alias la='ls -A'
+alias l='ls -CF'
+alias top='top -o -rsize'
+alias mongo='mongo --port=17017'
+alias chrome="/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome"
