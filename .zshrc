@@ -130,4 +130,4 @@ export NVM_DIR="$HOME/.nvm"
 
 # 
 ##### ALIASES
-source ~/.zsh/dotfiles/.*
+source ~/.zsh/.*
